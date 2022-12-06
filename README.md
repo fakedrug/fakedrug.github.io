@@ -1,2 +1,2 @@
-# faketrug.github.io
-blogs
+hello world
+
