@@ -1,0 +1,2 @@
+# faketrug.github.io
+blogs
